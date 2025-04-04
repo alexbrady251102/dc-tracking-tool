@@ -1,0 +1,23 @@
+# Node modules for both frontend and backend
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# SQLite database (optional, if used)
+*.sqlite3
+*.db
